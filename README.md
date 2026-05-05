@@ -1,6 +1,6 @@
 # VulkanShaderLoader
 
-**Iris-style shader pack loader for [VulkanMod](https://github.com/xCollateral/VulkanMod).**  
+**Iris-style shader pack loader for [VulkanMod](https://github.com/xCollateral/VulkanMod)**  
 Drop shader packs into `shaderpacks/`, select them from the new **Shader Packs** tab
 inside VulkanMod's options screen, click **Apply** — done.
 
